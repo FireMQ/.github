@@ -1,6 +1,6 @@
 # FireMQ
 
-A lean, fast message broker written in Rust that speaks RabbitMQ's AMQP 0-9-1. One binary, zero config, and your existing RabbitMQ clients connect unchanged.
+A lean, fast message broker written in Rust that speaks RabbitMQ's AMQP 0-9-1, so your existing RabbitMQ clients connect unchanged.
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/FireMQ/firemq/main/install.sh | sh
